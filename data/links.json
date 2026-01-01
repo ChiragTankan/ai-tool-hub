@@ -1,0 +1,809 @@
+{
+  "categories": [
+    {
+      "name": "AI Writing & Content",
+      "icon": "✍️",
+      "links": [
+        {
+          "title": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "Free AI chat with daily limits"
+        },
+        {
+          "title": "Claude",
+          "url": "https://claude.ai",
+          "description": "Free AI assistant with generous limits"
+        },
+        {
+          "title": "Grammarly",
+          "url": "https://grammarly.com",
+          "description": "Free writing assistant & grammar checker"
+        },
+        {
+          "title": "Notion AI",
+          "url": "https://notion.so/product/ai",
+          "description": "AI-powered workspace with free trial"
+        },
+        {
+          "title": "QuillBot",
+          "url": "https://quillbot.com/",
+          "description": "Free paraphrasing, grammar checking, summarizer"
+        },
+        {
+          "title": "Scribbr Citation Generator",
+          "url": "https://scribbr.com/citation/generator/",
+          "description": "Free APA/MLA/Chicago/Harvard citations"
+        },
+        {
+          "title": "Hemingway App",
+          "url": "https://hemingwayapp.com/",
+          "description": "Writing clarity checker"
+        },
+        {
+          "title": "Elicit",
+          "url": "https://elicit.com/",
+          "description": "AI-powered research assistant"
+        },
+        {
+          "title": "Copy.ai",
+          "url": "https://www.copy.ai/tools",
+          "description": "Free AI Writing Generators"
+        },
+        {
+          "title": "Askify",
+          "url": "https://askify.video/",
+          "description": "AI-powered Q&A and knowledge base assistant"
+        },
+        {
+          "title": "Rytr",
+          "url": "https://rytr.me/",
+          "description": "AI-powered writing assistant for blogs, emails & ads."
+        },
+        {
+          "title": "Monica",
+          "url": "https://monica.im/",
+          "description": "All-in-one AI assistant. Personalized, fast and free."
+        },
+        {
+          "title": "Jasper",
+          "url": "https://www.jasper.ai/",
+          "description": "A powerful AI content platform for creating marketing copy, blog posts, and social media content."
+        },
+        {
+          "title": "DeepL Write",
+          "url": "https://www.deepl.com/write",
+          "description": "An AI writing assistant that improves text by fixing grammar and punctuation errors, and suggesting alternative phrasing for tone and style."
+        },
+        {
+          "title": "Wordtune",
+          "url": "https://www.wordtune.com/",
+          "description": "An AI-powered writing companion that helps rephrase sentences, adjust tone, and shorten or expand text."
+        },
+        {
+          "title": "Simplified AI Writer",
+          "url": "https://simplified.com/ai-writer",
+          "description": "Free AI writer for blogs, social media, emails, and marketing copy"
+        },
+        {
+          "title": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "A powerful, multimodal AI model by Google."
+        },
+        {
+          "title": "Poe",
+          "url": "https://poe.com/",
+          "description": "An AI platform to chat with a variety of bots like ChatGPT, Claude, and more."
+        },
+        {
+          "title": "Promptly AI",
+          "url": "https://chromewebstore.google.com/detail/promptly-ai/jjfoaldlbbcfgkhbfmadjjelphbgmngg?hl=en",
+          "description": "Promptly AI is a Chrome extension that helps you improve, manage, and reuse your prompts across AI chat interfaces (ChatGPT, Claude, Perplexity, etc.)"
+        },
+        {
+          "title": "Originality AI",
+          "url": "https://originality.ai/",
+          "description": "Originality.ai is a content quality tool that detects AI-generated text, checks plagiarism, and performs fact checking to ensure credible, original writing."
+        },
+        {
+          "title": "AISEO",
+          "url": "https://aiseo.ai/",
+          "description": "An AI-powered writing assistant for generating SEO-optimized content, including articles, blog posts, and marketing copy."
+        },
+        {
+          "title": "Writesonic",
+          "url": "https://writesonic.com/",
+          "description": "AI content generator for SEO-optimized blog posts, landing pages, and product descriptions. Free plan offers 10,000 words/month."
+        },
+        {
+          "title": "HyperWrite",
+          "url": "https://www.hyperwriteai.com/",
+          "description": "AI writing assistant for brainstorming, outlining, and drafting content, with unlimited basic generations on the free plan."
+        },
+        {
+          "title": "Yomu",
+          "url": "https://www.yomu.ai/",
+          "description": "AI writing assistant for academic writing, structuring essays and citations. Free for individuals with limits."
+        },
+        {
+          "title": "ContentBot",
+          "url": "https://www.contentbot.ai/",
+          "description": "Versatile AI content creator for eCommerce product descriptions and blog posts. Free plan includes 2,000 words/month."
+        },
+        {
+          "title": "Lately",
+          "url": "https://www.lately.ai/",
+          "description": "AI-powered social media post generator with scheduling and analytics. Offers a free trial."
+        },
+        {
+          "title": "Junia AI",
+          "url": "https://junia.ai",
+          "description": "Writing assistant that helps with rephrasing, summarization, SEO adjustments, and content planning."
+        }
+      ]
+    },
+    {
+      "name": "AI Design & Images",
+      "icon": "🎨",
+      "links": [
+        {
+          "title": "Canva AI",
+          "url": "https://canva.com",
+          "description": "Free design tool with AI features"
+        },
+        {
+          "title": "DALL-E 2",
+          "url": "https://openai.com/dall-e-2",
+          "description": "AI image generator with free credits"
+        },
+        {
+          "title": "Midjourney",
+          "url": "https://midjourney.com",
+          "description": "AI art generator with free trial"
+        },
+        {
+          "title": "Remove.bg",
+          "url": "https://remove.bg",
+          "description": "Free AI background remover"
+        },
+        {
+          "title": "Banani.co",
+          "url": "https://banani.co",
+          "description": "Design stunning UIs and Turn ideas into UI prototypes with AI"
+        },
+        {
+          "title": "KREA AI",
+          "url": "https://krea.ai/",
+          "description": "AI-powered avatar maker and design inspiration"
+        },
+        {
+          "title": "StockImg AI",
+          "url": "https://stockimg.ai/",
+          "description": "Free stock-style image generator with free trial"
+        },
+        {
+          "title": "Stable Diffusion",
+          "url": "https://stablediffusionweb.com/",
+          "description": "Web-based Stable Diffusion interface for photorealistic text-to-image generation"
+        },
+        {
+          "title": "Nanobanana.ai",
+          "url": "https://nanobanana.ai/",
+          "description": "Transform any image with simple text prompts"
+        },
+        {
+          "title": "Pixlr",
+          "url": "https://pixlr.com/",
+          "description": "Edit photos, generate images, and design freely with Pixlr’s powerful AI tools."
+        },
+        {
+          "title": "Stitch",
+          "url": "https://stitch.withgoogle.com",
+          "description": "AI-powered UI/UX design tool for creating intuitive interfaces"
+        },
+        {
+          "title": "Adobe Firefly",
+          "url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+          "description": "Adobe's family of creative generative AI models, integrated into Photoshop, Illustrator, and other apps for image generation and editing."
+        },
+        {
+          "title": "Magnific AI",
+          "url": "https://magnific.ai/",
+          "description": "An advanced AI image upscaler and enhancer that can add details and increase resolution significantly."
+        },
+        {
+          "title": "Looka",
+          "url": "https://looka.com/",
+          "description": "AI-powered platform for designing logos and building a brand identity."
+        },
+        {
+          "title": "Playground AI",
+          "url": "https://playgroundai.com/",
+          "description": "500 images/day. User-friendly image generation using Stable Diffusion and DALL-E models."
+        },
+        {
+          "title": "Microsoft Designer",
+          "url": "https://designer.microsoft.com/",
+          "description": "Unlimited with Microsoft account. AI graphic design platform for social media and marketing visuals."
+        },
+        {
+          "title": "Craiyon",
+          "url": "https://www.craiyon.com/",
+          "description": "Unlimited generations. Lightweight AI image generator for fun illustrations and memes."
+        },
+        {
+          "title": "Artbreeder",
+          "url": "https://www.artbreeder.com/",
+          "description": "Free community access. AI tool for blending and evolving images in real-time."
+        },
+        {
+          "title": "NightCafe Studio",
+          "url": "https://creator.nightcafe.studio/",
+          "description": "5 credits/day. AI art generator with multiple models and community challenges."
+        },
+        {
+          "title": "PhotoCut",
+          "url": "https://photocut.ai/free-tools/ai-design",
+          "description": "Generates logos, avatars, posters or interior designs from text prompts + offers editing tools like background removal & enhancements."
+        },
+        {
+          "title": "Lovart",
+          "url": "https://lovart.ai",
+          "description": "An AI Design Agent that turns your text prompts into full brand visuals, videos, and design assets — acting like a one-person design team in your browser."
+        },
+        {
+          "title": "Let’s Enhance",
+          "url": "https://letsenhance.io",
+          "description": "Upscale images, improve resolution, enhance lighting & tone using AI, especially for low quality photos."
+        },
+        {
+          "title": "DeepAI",
+          "url": "https://deepai.org/",
+          "description": "Multipurpose Chatbot with features like Video/Image/Music Generation, Image Editor, and much more."
+        }
+      ]
+    },
+    {
+      "name": "AI Presentations",
+      "icon": "📊",
+      "links": [
+        {
+          "title": "Gamma",
+          "url": "https://gamma.app",
+          "description": "AI-powered presentation maker"
+        },
+        {
+          "title": "Beautiful.ai",
+          "url": "https://beautiful.ai",
+          "description": "Smart presentation design with free plan"
+        },
+        {
+          "title": "Tome",
+          "url": "https://tome.app",
+          "description": "AI storytelling & presentation tool"
+        },
+        {
+          "title": "Slidesgo AI",
+          "url": "https://slidesgo.com",
+          "description": "Free AI presentation templates"
+        },
+        {
+          "title": "Napkin",
+          "url": "https://napkin.ai",
+          "description": "AI-powered visual storytelling and presentation tool"
+        },
+        {
+          "title": "GPTforSlides",
+          "url": "https://www.gptforslides.app/",
+          "description": "AI-powered tool that converts topics or text into professional Google Slides presentations"
+        },
+        {
+          "title": "Zoho Show Zia AI",
+          "url": "https://www.zoho.com/show/",
+          "description": "AI-integrated presentaton builder"
+        },
+        {
+          "title": "PowerPoint Speaker Coach",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/powerpoint",
+          "description": "Free with Microsoft 365 account. AI feedback tool for improving public speaking in presentations."
+        },
+        {
+          "title": "ChatSlide",
+          "url": "https://www.chatslide.ai/",
+          "description": "ChatSlide AI instantly transforms your text prompts into complete presentation slides using a simple conversational interface."
+        }
+      ]
+    },
+    {
+      "name": "AI Coding & Development",
+      "icon": "💻",
+      "links": [
+        {
+          "title": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI code assistant with free trial"
+        },
+        {
+          "title": "Qwen AI",
+          "url": "https://chat.qwen.ai/",
+          "description": "Free AI Assistant "
+        },
+        {
+          "title": "Replit AI",
+          "url": "https://replit.com",
+          "description": "Free AI coding assistant"
+        },
+        {
+          "title": "CodePen AI",
+          "url": "https://codepen.io",
+          "description": "Online code editor with AI features"
+        },
+        {
+          "title": "Tabnine",
+          "url": "https://tabnine.com",
+          "description": "AI code completion with free tier"
+        },
+        {
+          "title": "Amazon Q Developer",
+          "url": "https://aws.amazon.com/q/developer/",
+          "description": "Generative AI-powered assistant for software development"
+        },
+        {
+          "title": "Bolt.new",
+          "url": "https://bolt.new/",
+          "description": "Create stunning apps & websites by chatting with AI."
+        },
+        {
+          "title": "Blackbox",
+          "url": "https://blackbox.ai/",
+          "description": "Free code search & snippet extraction."
+        },
+        {
+          "title": "Deepseek",
+          "url": "https://www.deepseek.com/en",
+          "description": "Free AI for code generation."
+        },
+        {
+          "title": "CodiumAI",
+          "url": "https://codium.ai/",
+          "description": "AI-powered code review and test generation"
+        },
+        {
+          "title": "V0 by Vercel",
+          "url": "https://v0.dev/",
+          "description": "Build full-stack apps with AI assistance"
+        },
+        {
+          "title": "Firebase Studio",
+          "url": "https://firebase.studio/",
+          "description": "AI-powered full-stack development environment for building and managing apps"
+        },
+        {
+          "title": "Kiro",
+          "url": "https://kiro.dev/",
+          "description": "AI IDE for prototype-to-production, spec-driven development"
+        },
+        {
+          "title": "Lovable",
+          "url": "https://lovable.dev/",
+          "description": "Build apps and websites by chatting with AI"
+        },
+        {
+          "title": "CodeRabbit",
+          "url": "https://coderabbit.ai/",
+          "description": "AI code reviews and suggestions directly in your editor"
+        },
+        {
+          "title": "Trae",
+          "url": "https://www.trae.ai/",
+          "description": "AI engineer that helps build software solutions independently"
+        },
+        {
+          "title": "Chef by Convex",
+          "url": "https://chef.convex.dev/",
+          "description": "Generate real-time full-stack apps with backend support"
+        },
+        {
+          "title": "Cursor AI IDE",
+          "url": "https://cursor.sh",
+          "description": "AI-first code editor with free features for real-time coding assistance"
+        },
+        {
+          "title": "Aider",
+          "url": "https://aider.chat/",
+          "description": "AI pair programming in your terminal"
+        },
+        {
+          "title": "Sourcegraph Cody",
+          "url": "https://sourcegraph.com/cody",
+          "description": "An AI coding assistant that understands your entire codebase to help write, fix, and explain code."
+        },
+        {
+          "title": "Codeium",
+          "url": "https://codeium.com/",
+          "description": "Free AI coding assistant with IDE integration and code completion. Unlimited for individuals."
+        },
+        {
+          "title": "Replit Ghostwriter",
+          "url": "https://replit.com/site/ghostwriter",
+          "description": "AI coding companion for generating and debugging code in Replit. Free in Replit core."
+        },
+        {
+          "title": "Mutable AI",
+          "url": "https://www.mutable.ai/",
+          "description": "AI for refactoring legacy code and generating documentation. Free tier for basic refactoring."
+        },
+        {
+          "title": "Continue",
+          "url": "https://www.continue.dev/",
+          "description": "Open-source AI coding assistant with in-IDE autocomplete. Fully free."
+        },
+        {
+          "title": "HackerAI",
+          "url": "https://hackerai.co/",
+          "description": "AI penetration testing assistant designed to assist with tasks like vulnerability analysis, ethical hacking techniques, and security research."
+        }
+      ]
+    },
+    {
+      "name": "AI Video & Audio",
+      "icon": "🎬",
+      "links": [
+        {
+          "title": "Loom AI",
+          "url": "https://loom.com",
+          "description": "Screen recording with AI summaries"
+        },
+        {
+          "title": "Descript",
+          "url": "https://descript.com",
+          "description": "AI video editing with free plan"
+        },
+        {
+          "title": "ElevenLabs",
+          "url": "https://elevenlabs.io",
+          "description": "AI voice generator with free credits"
+        },
+        {
+          "title": "Runway ML",
+          "url": "https://runwayml.com",
+          "description": "AI video tools with free trial"
+        },
+        {
+          "title": "Veed",
+          "url": "https://veed.io/",
+          "description": "AI-powered video creation for teams"
+        },
+        {
+          "title": "Pika",
+          "url": "https://pika.art/",
+          "description": "AI-powered idea-to-video platform with free credits"
+        },
+        {
+          "title": "Leonardo AI",
+          "url": "https://leonardo.ai/",
+          "description": "AI art and image generation platform"
+        },
+        {
+          "title": "Vmaker AI",
+          "url": "https://www.vmaker.com/",
+          "description": "Generate videos from text, voice, or docs and edit with AI"
+        },
+        {
+          "title": "Flow",
+          "url": "https://labs.google/flow",
+          "description": "AI platform for editing and producing video content"
+        },
+        {
+          "title": "Kapwing",
+          "url": "https://www.kapwing.com/",
+          "description": "AI-powered free video editor for creators"
+        },
+        {
+          "title": "Suno",
+          "url": "https://suno.ai/",
+          "description": "AI model that generates complete songs—lyrics, instrumentals, and vocals—from a simple text prompt."
+        },
+        {
+          "title": "HeyGen",
+          "url": "https://www.heygen.com/",
+          "description": "AI video platform for creating professional videos with generative avatars and voices."
+        },
+        {
+          "title": "Adobe Podcast",
+          "url": "https://podcast.adobe.com/enhance",
+          "description": "A free web-based tool that uses AI to remove noise and echo from voice recordings, making them sound studio-quality."
+        },
+        {
+          "title": "Synthesia",
+          "url": "https://www.synthesia.io/",
+          "description": "An AI video generation platform that creates videos with realistic AI avatars and voiceovers in minutes."
+        },
+        {
+          "title": "15.ai",
+          "url": "https://15.dev/",
+          "description": "Generate character speech (TTS)"
+        },
+        {
+          "title": "Murf",
+          "url": "https://murf.ai/",
+          "description": "Realistic AI voice & TTS tool"
+        },
+        {
+          "title": "Play.ht",
+          "url": "https://play.ht/",
+          "description": "Text-to-speech platform for business narration and podcasts. Offers 12,500 characters/month."
+        },
+        {
+          "title": "Resemble AI",
+          "url": "https://www.resemble.ai/",
+          "description": "Synthetic speech tool for custom voices and interactive experiences. Offers 1,000 words/month."
+        },
+        {
+          "title": "Lovo.ai",
+          "url": "https://lovo.ai/",
+          "description": "AI voice generation with video editing for content creators. 14 minutes/month on free plan."
+        },
+        {
+          "title": "Google Veo",
+          "url": "https://deepmind.google/models/veo/",
+          "description": "AI video generator for creative visuals and b-roll. Limited free via VideoFX."
+        },
+        {
+          "title": "OpusClip",
+          "url": "https://www.opus.pro/",
+          "description": "AI tool for clipping long videos into social media shorts. 90 minutes/month on free plan."
+        }
+      ]
+    },
+    {
+      "name": "AI Productivity",
+      "icon": "⚡",
+      "links": [
+        {
+          "title": "Otter.ai",
+          "url": "https://otter.ai",
+          "description": "Free AI meeting transcription"
+        },
+        {
+          "title": "Calendly AI",
+          "url": "https://calendly.com",
+          "description": "Smart scheduling with free plan"
+        },
+        {
+          "title": "Zapier AI",
+          "url": "https://zapier.com",
+          "description": "Workflow automation with free tier"
+        },
+        {
+          "title": "Perplexity AI",
+          "url": "https://perplexity.ai",
+          "description": "Free AI search & research assistant"
+        },
+        {
+          "title": "NotebookLM",
+          "url": "https://notebooklm.google.com",
+          "description": "Google's AI research & note-taking tool"
+        },
+        {
+          "title": "Julius AI",
+          "url": "https://julius.ai/chat",
+          "description": "AI data analysis and visualization tool"
+        },
+        {
+          "title": "Genspark AI",
+          "url": "https://genspark.ai",
+          "description": "AI-powered search and research assistant"
+        },
+        {
+          "title": "Taskade",
+          "url": "https://taskade.com/",
+          "description": "AI to-do lists, outlines, and workflows"
+        },
+        {
+          "title": "Tango",
+          "url": "https://tango.us/",
+          "description": "Create step-by-step guides and automate workflows with AI"
+        },
+        {
+          "title": "Iorad",
+          "url": "https://www.iorad.com/",
+          "description": "Interactive tutorials and workflow documentation made easy"
+        },
+        {
+          "title": "Snipo",
+          "url": "https://snipo.io/",
+          "description": "Productivity enhancement for Notion with snippets and AI suggestions"
+        },
+        {
+          "title": "Grok",
+          "url": "https://grok.x.ai/",
+          "description": "AI assistant for research, summarization, and productivity enhancement"
+        },
+        {
+          "title": "Leiga AI SMART Tools",
+          "url": "https://www.leiga.com/free-tools",
+          "description": "100% free AI tools for tasks like SMART goals, to-do lists, and prompts"
+        },
+        {
+          "title": "ChatPDF",
+          "url": "https://www.chatpdf.com/",
+          "description": "Chat with and summarize PDFs instantly."
+        },
+        {
+          "title": "Fireflies.ai",
+          "url": "https://fireflies.ai/",
+          "description": "An AI meeting assistant that joins your calls to record, transcribe, summarize, and analyze voice conversations."
+        },
+        {
+          "title": "Motion",
+          "url": "https://www.usemotion.com/",
+          "description": "An AI-powered calendar and project manager that automatically plans your day and schedules tasks."
+        },
+        {
+          "title": "Scribe",
+          "url": "https://scribehow.com/",
+          "description": "An AI tool that automatically creates step-by-step guides and tutorials for any process, simply by recording your screen."
+        },
+        {
+          "title": "Wobo AI",
+          "url": "https://www.wobo.ai/",
+          "description": "Wobo AI helps you land your dream job with AI-powered job search, ATS-friendly resumes, and smart cover letters."
+        },
+        {
+          "title": "Pi (Inflection AI)",
+          "url": "https://pi.ai",
+          "description": "Empathetic AI assistant that offers calm, reflective conversations to support mindfulness and productivity."
+        },
+        {
+          "title": "Minimax",
+          "url": "https://www.minimax.chat/",
+          "description": "Multilingual AI chatbot for general queries and translations. Unlimited basic chats."
+        },
+        {
+          "title": "Chatbase",
+          "url": "https://www.chatbase.co/",
+          "description": "No-code AI chatbot builder for websites. 1 bot free."
+        },
+        {
+          "title": "Text Blaze",
+          "url": "https://www.textblaze.com/",
+          "description": "Automation tool for repetitive typing with snippets. Free snippets."
+        },
+        {
+          "title": "Actor Do",
+          "url": "https://actordo.ai/",
+          "description": "AI assistant for managing calendars and emails. Free calendar basics."
+        },
+        {
+          "title": "Wispr Flow",
+          "url": "https://wisprflow.ai/",
+          "description": "Voice-first AI for capturing thoughts into notes. Free voice notes."
+        },
+        {
+          "title": "JustDone",
+          "url": "https://justdone.ai",
+          "description": "Detects AI-generated content, checks similarity / plagiarism, helpful for content validation and authenticity."
+        },
+        {
+          "title": "Explainpaper",
+          "url": "https://www.explainpaper.com",
+          "description": "Highlight text to get instant plain-language explanations."
+        }
+      ]
+    },
+    {
+      "name": "AI Entertainment",
+      "icon": "😂",
+      "links": [
+        {
+          "title": "Super Meme",
+          "url": "https://supermeme.ai/",
+          "description": "Quickly create memes using AI-generated content"
+        },
+        {
+          "title": "Character.AI",
+          "url": "https://character.ai/",
+          "description": "A platform where you can create and chat with AI-powered characters, from historical figures to fictional personalities."
+        },
+        {
+          "title": "AI Dungeon",
+          "url": "https://aidungeon.com/",
+          "description": "An AI-generated text-based adventure game with endless possibilities and storylines."
+        },
+        {
+          "title": "Infinite Craft",
+          "url": "https://neal.fun/infinite-craft/",
+          "description": "Infinite Craft is an AI-powered game where you start with four basic elements and combine them to discover a virtually endless universe of creations."
+        }
+      ]
+    },
+    {
+      "name": "AI Model Prototyping",
+      "icon": "🧪",
+      "links": [
+        {
+          "title": "Google AI Studio",
+          "url": "https://aistudio.google.com",
+          "description": "Web-based IDE for prototyping with Gemini AI models"
+        },
+        {
+          "title": "Lyzr.ai",
+          "url": "https://www.lyzr.ai/",
+          "description": "Build and deploy AI agents to automate workflows with free plan"
+        },
+        {
+          "title": "Hugging Face Spaces",
+          "url": "https://huggingface.co/spaces",
+          "description": "AI Model Prototyping"
+        }
+      ]
+    },
+    {
+      "name": "AI Game & Strategy",
+      "icon": "🎮",
+      "links": [
+        {
+          "title": "Chess Champ",
+          "url": "https://gemini.google.com/gem/chess-champ",
+          "description": "AI tool for playing and analyzing chess games"
+        },
+        {
+          "title": "Ludo Ai Game",
+          "url": "https://ludo.ai/",
+          "description": "Idea generator for new game mechanics, storylines, and level design"
+        },
+        {
+          "title": "TACTIC BLITZ",
+          "url": "https://www.yeschat.ai/gpts-9t557fXc0DB-TACTIC-BLITZ?utm_source=chatgpt.com",
+          "description": "AI coach that gives move-by-move strategy advice for different genres"
+        },
+        {
+          "title": "Rosebud AI",
+          "url": "https://lab.rosebud.ai/ai-game-creator",
+          "description": "An AI tool which help you create simple 2D games by generating game assets, levels, and mechanics based on your ideas."
+        }
+      ]
+    },
+    {
+      "name": "AI Local Models",
+      "icon": "🖥️",
+      "links": [
+        {
+          "title": "GPT4All",
+          "url": "https://gpt4all.io/",
+          "description": "Run open-source LLMs locally on your computer"
+        },
+        {
+          "title": "Ollama",
+          "url": "https://ollama.ai/",
+          "description": "Simple way to run and manage LLMs locally"
+        },
+        {
+          "title": "LM Studio",
+          "url": "https://lmstudio.ai/",
+          "description": "Desktop app to run and chat with local models"
+        },
+        {
+          "title": "Llama.cpp",
+          "url": "https://github.com/ggerganov/llama.cpp",
+          "description": "Local inference of LLaMA models on CPU/GPU"
+        },
+        {
+          "title": "AnythingLLM",
+          "url": "https://anythingllm.com/",
+          "description": "Toolkit to run and connect many local LLMs"
+        },
+        {
+          "title": "Jan",
+          "url": "https://jan.ai/",
+          "description": "Open-source local ChatGPT alternative"
+        },
+        {
+          "title": "DeepSeek",
+          "url": "https://github.com/deepseek-ai",
+          "description": "Open-source DeepSeek models for local/edge AI"
+        }
+      ]
+    }
+  ]
+}
